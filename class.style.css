@@ -1,0 +1,9 @@
+div {
+    border: 1px solid red;
+}
+.second {
+    border: 1px solid blue;
+}
+#third {
+    border: 1px solid green;
+}
